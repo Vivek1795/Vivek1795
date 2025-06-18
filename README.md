@@ -2,7 +2,7 @@
 
 🚀 Master’s Graduate in Robotics and Autonomous Systems from Arizona State University  
 🔧 Specializing in control systems, model-based design, embedded software, and machine learning  
-📍 Phoenix, AZ | 📫 vivek.sunil.kulkarni@gmail.com | [LinkedIn](https://linkedin.com/in/vivek1795) | [GitHub](https://github.com/Vivek1795)
+📍 Phoenix, AZ | 📫 vivek.sunil.kulkarni@gmail.com | [LinkedIn](https://linkedin.com/in/vivekkulkarni1795) | [GitHub](https://github.com/Vivek1795)
 
 
 ---
@@ -38,6 +38,6 @@ Designed a servo-driven biomimetic flapping wing using a 4-bar mechanism. Simula
 ## 🤝 Connect with Me
 
 I’m actively looking for full-time roles in Robotics, Embedded Systems, and AI-driven autonomy.  
-Feel free to reach out or connect on [LinkedIn](https://linkedin.com/in/vivek1795)!
+Feel free to reach out or connect on [LinkedIn](https://linkedin.com/in/vivekkulkarni1795)!
 
 
