@@ -19,7 +19,7 @@ Implemented consensus-based path planning and coordination for underwater vehicl
 Built a decentralized multi-agent system using reward machines and TensorFlow to achieve task execution with 3.2x sample efficiency.
 
 ### ✋ Gesture-Controlled Robotic Arm
-Controlled a 6-DOF robotic arm using real-time hand detection and inverse kinematics. Integrated OpenCV and MyCobot SDK.
+Controlled a 3-DOF robotic arm using real-time hand detection and inverse kinematics. Integrated OpenCV and MuJoCo.
 
 ### 🦇 Bat-Inspired Foldable Wing Robot
 Designed a servo-driven biomimetic flapping wing using a 4-bar mechanism. Simulated aerodynamic performance in MuJoCo and improved energy efficiency by 25%.
